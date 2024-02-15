@@ -1,2 +1,2 @@
 # API-Learning
-For storing APIs used in learningใ
+For storing APIs used in learning.
